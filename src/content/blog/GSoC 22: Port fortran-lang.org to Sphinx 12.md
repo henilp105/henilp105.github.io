@@ -3,7 +3,7 @@ author: Henil Panchal
 pubDatetime: 2022-09-23T15:22:00Z
 modDatetime: 2023-12-21T09:12:47.400Z
 title: "GSoC’22: Port fortran-lang.org to Sphinx || Blog post by Henil Shalin Panchal || #12"
-slug: "gsoc’22:-port-fortran-lang.org-to-sphinx-||-blog-post-by-henil-shalin-panchal-||-#12"
+slug: "gsoc’22:-port-fortran-lang.org-to-sphinx-||-blog-post-by-henil-shalin-panchal-||- 12"
 featured: true
 draft: false
 tags:
@@ -60,5 +60,6 @@ This week as we have decided to shift the sphinx site to a new repo (https://git
 All the pages of the website are being rendered by Sphinx only.
 Please feel free to ping me here or on my mail: [henilp105@gmail.com](mailto:henilp105@gmail.com).
 I will be regularly posting the weekly blog links [here](https://docs.google.com/document/d/1Et-2JPlnA9SAssSnmzkYeXQ1ExXqBI5tcdBQhuqvilE/edit?usp=sharing).
+
 Thanks and Regards,
 Henil Shalin Panchal

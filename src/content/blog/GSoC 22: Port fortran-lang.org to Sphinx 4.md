@@ -3,7 +3,7 @@ author: Henil Panchal
 pubDatetime: 2022-09-23T15:22:00Z
 modDatetime: 2023-12-21T09:12:47.400Z
 title: "GSoC’22: Port fortran-lang.org to Sphinx || Blog post by Henil Shalin Panchal || #4"
-slug: "gsoc’22:-port-fortran-lang.org-to-sphinx-||-blog-post-by-henil-shalin-panchal-||-#4"
+slug: "gsoc’22:-port-fortran-lang.org-to-sphinx-||-blog-post-by-henil-shalin-panchal-||- 4"
 featured: true
 draft: false
 tags:
@@ -25,17 +25,4 @@ Some of the pages are currently being rendered by sphinx and all other pages are
 Please feel free to ping me here or on my mail: henilp105@gmail.com.
 I will be regularly posting the weekly blog links here.
 Thanks and Regards,
-Henil Shalin Panchal
-
-GSoC’22: Community Feedback for
-Port fortran-lang.org to Sphinx
-
-Greetings of the Day Everyone,
-
-I have completed the porting of the custom index page ,learn section page, compilers section and news section to sphinx and I would like to have **feedback/suggestions from the community** on the **Current implementation**. You can find my fork’s github pages here.
-
-Also, if you have any other suggestions for the Website’s Implementation please feel free to drop them here, I will try my best to incorporate them.
-
-Thanks and Regards,
-
 Henil Shalin Panchal

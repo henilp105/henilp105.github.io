@@ -3,7 +3,7 @@ author: Henil Panchal
 pubDatetime: 2022-09-23T15:22:00Z
 modDatetime: 2023-12-21T09:12:47.400Z
 title: "GSoC’22: Port fortran-lang.org to Sphinx || Blog post by Henil Shalin Panchal || #14"
-slug: "gsoc’22:-port-fortran-lang.org-to-sphinx-||-blog-post-by-henil-shalin-panchal-||-#14"
+slug: "gsoc’22:-port-fortran-lang.org-to-sphinx-||-blog-post-by-henil-shalin-panchal-||- 14"
 featured: true
 draft: false
 tags:
@@ -36,5 +36,6 @@ All the pages of the website are being rendered by Sphinx only.
 Although This might be my last GSoC'22 Blog Post , But I will Always Remain Active Contributor to fortran-lang , in whichever way I might be able to Contribute . I will Always Remain grateful to Organisation , My Mentor For this Wonderful GSoC this year and Warm welcome to this Superb Organisation.
 Please feel free to ping me here or on my mail: [henilp105@gmail.com](mailto:henilp105@gmail.com).
 I will be regularly posting the weekly blog links [here](https://docs.google.com/document/d/1Et-2JPlnA9SAssSnmzkYeXQ1ExXqBI5tcdBQhuqvilE/edit?usp=sharing).
+
 Thanks and Regards,
 Henil Shalin Panchal
