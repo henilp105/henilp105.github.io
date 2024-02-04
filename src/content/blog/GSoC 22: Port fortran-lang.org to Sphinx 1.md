@@ -18,6 +18,24 @@ tags:
 description: "GSoC’22: Port fortran-lang.org to Sphinx || Blog post by Henil Shalin Panchal || #1"
 ---
 
+---
+
+author: Sat Naing
+pubDatetime: 2022-09-23T15:22:00Z
+modDatetime: 2023-12-21T09:12:47.400Z
+title: Adding new posts in AstroPaper theme
+slug: adding-new-posts-in-astropaper-theme-1
+featured: true
+draft: true
+tags:
+
+- docs
+  description:
+  Some rules & recommendations for creating or adding new posts using AstroPaper
+  theme.
+
+---
+
 Greetings of the Day Everyone!
 I am Henil Shalin Panchal . I will be working on the GSoC project on Porting fortran-lang.org to Sphinx.
 This post marks the start of my GSoC Project’s Community Bonding period.
