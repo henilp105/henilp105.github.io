@@ -5,7 +5,7 @@ modDatetime: 2023-12-21T09:12:47.400Z
 title: "{title}"
 slug: "{slug}"
 featured: true
-draft: false
+draft: true
 tags:
   - docs
   - Google Summer of Code'22
