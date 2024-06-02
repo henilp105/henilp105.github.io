@@ -1,7 +1,4 @@
-User-agent: Googlebot
-Disallow: /nogooglebot/
-
 User-agent: *
-Allow: /
+Disallow:
 
-Sitemap: https://astro-paper.pages.dev/sitemap-index.xml
+Sitemap: https://henilp105.github.io/sitemap.xml
