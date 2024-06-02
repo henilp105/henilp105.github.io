@@ -3,19 +3,19 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Swayam
+first_name: Henil
 middle_name: 
-last_name: Singh
-email: singhswayam008@gmail.com
+last_name: Panchal
+email: henilp105@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Dare to peek into Swayam's portfolio? It's rumored to be more captivating than the treasures of Valhalla!
+  Curious to glimpse Henil's portfolio? It's said to be more mesmerizing than the Aurora Borealis!
 footer_text: >
 keywords:  academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🚀  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://swayaminsync.github.io # the base hostname & protocol for your site
+url: https://henilp105.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -64,13 +64,13 @@ og_image: https://swayaminsync.github.io/assets/img/prof_pic.jpg # The site-wide
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: SwayamInSync
+github_username: henilp105
 gitlab_username: # your GitLab user name
-twitter_username: _s_w_a_y_a_m_
+twitter_username: henilp105
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: swayam-singh-406610213
+linkedin_username: henilp105
 telegram_username: # your Telegram user name
-scholar_userid: clLJfm8AAAAJ
+scholar_userid: 1z2mIeMAAAAJ
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: # your ORCID ID
@@ -88,9 +88,9 @@ wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
 dblp_url: # your DBLP profile url
 stackoverflow_id: # your stackoverflow id
-kaggle_id: swayamsingh
+kaggle_id: henilp105
 lastfm_id: # your lastfm id
-spotify_id: xt4ldmbx2mvl22lk3zh8a445p
+spotify_id: # 
 pinterest_id: # your pinterest id
 unsplash_id: # your unsplash id
 instagram_id: # your instagram id
@@ -102,12 +102,12 @@ wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.
 
 contact_note: >
   Let's Connect 🙌🏻
-
+# remove github from dns records
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
 
-google_analytics: G-HJEMV6MXV1  # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
+google_analytics: G-ETBWJNXHBH  # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
 cronitor_analytics:  # cronitor RUM analytics site ID (format: XXXXXXXXX)
 
 google_site_verification:  # your google-site-verification ID (Google Search Console)
@@ -117,9 +117,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Swayam's Scripts # blog_name will be displayed in your blog page
+blog_name: Henil's Chronicles # blog_name will be displayed in your blog page
 blog_nav_title: Blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: A collection of my original writings
+blog_description: A collection of my original writings and tutorials for my future self
 permalink: /blog/:year/:title/
 future: true
 
@@ -204,6 +204,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+  - blog_henil
 keep_files:
   - CNAME
   - .nojekyll

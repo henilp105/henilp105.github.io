@@ -8,8 +8,10 @@ $ docker compose up
 ```
 ### Legacy Setup (works fast on codespaces)
 ```
+$ sudo add-apt-repository universe
+$ sudo spt-get update
+$ sudo apt-get install imagemagick php5-imagick
 $ bundle install
-# assuming pip is your Python package manager
 $ pip install jupyter
 $ bundle exec jekyll serve --lsi
 ```
