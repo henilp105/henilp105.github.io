@@ -2,27 +2,27 @@
   type: map
   contents:
     - name: Full Name
-      value: Swayam Singh
+      value: Henil Panchal
     - name: Email Address
-      value: <a href="mailto:singhswayam008@gmail.com">singhswayam008@gmail.com</a>
+      value: <a href="mailto:henilp105@gmail.com">henilp105@gmail.com</a>
     - name: Phone Number
-      value: +91 9116277756
+      value: +91 9054853880
     - name: Profiles
       links:
         - name: "GitHub"
-          link: "https://github.com/SwayamInSync"
+          link: "https://github.com/henilp105"
         - name: "LinkedIn"
-          link: "https://www.linkedin.com/in/swayam-singh-406610213/"
+          link: "https://www.linkedin.com/in/henilp105/"
         - name: "Kaggle"
-          link: "https://www.kaggle.com/swayamsingh"
+          link: "https://www.kaggle.com/henilp105"
         - name: "Google Scholar"
-          link: "https://scholar.google.com/citations?user=clLJfm8AAAAJ&hl"
+          link: "https://scholar.google.com/citations?user=1z2mIeMAAAAJ&hl"
 - title: Education
   type: time_table
   contents:
-    - title: B.Tech
-      institution: University of Allahabad, Uttar Pradesh, India
-      year: 2020 - 2024
+    - title: B.Tech Computer Science and Engineering
+      institution: Institute of Technology, Nirma University, Ahmedabad, India.
+      year: 2021 - 2025
       description:
         - title: "Relevant Courses:"
           contents:
