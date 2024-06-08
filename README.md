@@ -9,7 +9,7 @@ $ docker compose up
 ### Legacy Setup (works fast on codespaces)
 ```
 $ sudo add-apt-repository universe
-$ sudo spt-get update
+$ sudo apt-get update
 $ sudo apt-get install imagemagick php5-imagick
 $ bundle install
 $ pip install jupyter
