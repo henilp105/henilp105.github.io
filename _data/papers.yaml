@@ -1,0 +1,55 @@
+- arxiv_url: https://arxiv.org/abs/2312.17673
+  category: Cryptography and Security (cs.CR)
+  status: reading
+  title: 'Jatmo: Prompt Injection Defense by Task-Specific Finetuning'
+
+- arxiv_url: https://arxiv.org/abs/2206.00364
+  category: Computer Vision and Pattern Recognition (cs.CV)
+  status: to-be-read
+  title: Elucidating the Design Space of Diffusion-Based Generative Models
+
+- arxiv_url: https://arxiv.org/abs/2112.10752
+  category: Computer Vision and Pattern Recognition (cs.CV)
+  status: to-be-read
+  title: High-Resolution Image Synthesis with Latent Diffusion Models
+
+- arxiv_url: https://arxiv.org/abs/2403.02691
+  category: Computation and Language (cs.CL)
+  status: reading
+  title: 'InjecAgent: Benchmarking Indirect Prompt Injections in Tool-Integrated Large
+    Language Model Agents'
+
+- arxiv_url: https://arxiv.org/abs/2305.06161
+  category: Computation and Language (cs.CL)
+  status: reading
+  title: 'StarCoder: may the source be with you!'
+
+- arxiv_url: https://arxiv.org/abs/2307.09288
+  category: Computation and Language (cs.CL)
+  status: to-be-read
+  title: 'Llama 2: Open Foundation and Fine-Tuned Chat Models'
+
+- arxiv_url: https://export.arxiv.org/abs/2404.14219
+  category: Computation and Language (cs.CL)
+  status: reading
+  title: 'Phi-3 Technical Report: A Highly Capable Language Model Locally on Your  Phone'
+
+- arxiv_url: https://arxiv.org/abs/2203.13474
+  category: Machine Learning (cs.LG)
+  status: reading
+  title: 'CodeGen: An Open Large Language Model for Code with Multi-Turn Program Synthesis'
+
+- arxiv_url: https://arxiv.org/abs/2309.09530
+  category: Computation and Language (cs.CL)
+  status: reading
+  title: Adapting Large Language Models via Reading Comprehension
+
+- arxiv_url: https://arxiv.org/abs/2305.07759
+  category: Computation and Language (cs.CL)
+  status: reading
+  title: 'TinyStories: How Small Can Language Models Be and Still Speak Coherent English?'
+
+- arxiv_url: https://arxiv.org/abs/2403.09611
+  category: Computer Vision and Pattern Recognition (cs.CV)
+  status: to-be-read
+  title: 'MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training'
