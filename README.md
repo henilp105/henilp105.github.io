@@ -1,4 +1,6 @@
-# Henil's Portfolio
+# Henil's Portfolio (under progress)
+
+We are grateful to the original author (@swayamInsync) for opensourcing this page. it is currently under progress.
 
 ## Local Setup
 
