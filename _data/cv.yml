@@ -1,189 +1,243 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Henil Shalin Panchal
+  label: AI Engineer | Financial Analytics Researcher
+  email: henilp105@gmail.com
+  location: Ahmedabad, India (open to relocation)
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: AI engineer with hands-on experience architecting and shipping production-grade agentic AI systems on GCP (Vertex AI, Cloud Run, BigQuery, Dataflow). Builds multi-agent systems with LangGraph, CrewAI, and ADK using ReAct, self-reflection, and hierarchical delegation. Published researcher (NAACL'25 TrustNLP Spotlight) in LLM agent security and Codeforces Specialist (1521).
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
-      username: example
+      username: henilp105
     - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+      username: henilp105
+    - network: Google Scholar
+      username: 1z2mIeMAAAAJ
+    - network: X
+      username: henilp105
+    - network: Codeforces
+      username: 21bce085
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+      - institution: Queen's University Belfast – GIFT City Campus
+        location: Gujarat, India
+        area: Financial Analytics
+        studyType: Master of Science
+        start_date: 2026-01
+        end_date: 2026-12 (expected)
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Modules: Asset Pricing, Derivatives, Financial Modelling in Python, AI & Trading, Financial Data Analytics"
+          - "Currently enrolled"
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: Nirma University
+        location: Ahmedabad, India
+        area: Computer Science and Engineering
+        studyType: Bachelor of Technology
+        start_date: 2021-10
+        end_date: 2025-06
+        score: "CGPA: 8.4/10.0"
         highlights:
-          - Description 1.
-          - Description 2.
+          - "First Class with Distinction (Highest Honors); Data Science Club Lead"
+          - "Coursework: DSA, OOP, OS, Computer Architecture, Deep Learning, Foundations of Modern ML (IIIT Hyderabad, Grade A)"
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Queen's University Belfast, GIFT City Campus
+        position: Graduate Research Assistant – Financial Analytics & AI
+        location: Gujarat, India
+        start_date: 2026-01
+        end_date: present
         highlights:
-          - Relativity
-          - Description 2.
+          - "Developing financial ML models for market prediction using LSTM/Transformers and econometrics"
+          - "Applied derivatives pricing research: Black-Scholes-Merton, Binomial Trees, Monte Carlo"
+          - "Built VaR/CVaR analytics pipelines; scalable Python processing for structured financial data"
+          - "Architected GCP-based agentic market-intelligence pipeline using Vertex AI, Cloud Run, BigQuery, RAG, and LangGraph"
+          - "Implemented secure tool-calling workflows with OAuth 2.0 and MCP-compatible interfaces"
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: BITS Pilani, Pilani Campus
+        position: Pre-Doctoral Researcher (ML / Deep Learning / LLM Systems)
+        location: Pilani, India
+        start_date: 2025-05
+        end_date: 2025-12
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Developed custom graph-based loss and dynamic document graph methods for label-efficient LLM fine-tuning"
+          - "Demonstrated ~30% reduction in labeled data requirements for downstream NLP tasks"
+          - "Designed distributed PyTorch DDP pipelines and tracked experiments with Weights & Biases"
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: TCS Research
+        position: Research Intern (AI/ML, Analytics, Optimization)
+        location: Mumbai, India
+        start_date: 2024-12
+        end_date: 2025-05
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - "Engineered real-time VLM inference pipeline (PyTorch + Flask) for ripeness/shelf-life prediction"
+          - "Built ELT pipelines (Apache Beam/Dataflow) processing 100K+ records with BigQuery analytics"
+          - "Developed recommendation + Pareto multi-objective optimization frameworks"
+          - "Built cross-platform Flutter app for production food-tracking and AI-assisted decision support"
 
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - company: University of Illinois Urbana-Champaign (Daniel Kang Lab)
+        position: Undergraduate Researcher / Research Analyst (LLM Security)
+        location: Remote
+        start_date: 2023-12
+        end_date: 2024-12
+        highlights:
+          - "Fine-tuned phi-1/1.5/2 and TinyLlama using LoRA/PEFT on domain corpora"
+          - "Ran adversarial fine-tuning with GCG and AutoDAN against indirect prompt injection"
+          - "Designed red-team evaluation harness for attack success, latency, and token cost"
+          - "Co-authored NAACL'25 TrustNLP Spotlight paper on adaptive attacks against agent defenses"
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      - company: Fortran Programming Language (open source)
+        position: Fortran Developer, Fortran Package Manager
+        location: Remote
+        start_date: 2024-03
+        end_date: 2024-10
+        highlights:
+          - "Implemented fpm search with sorting/filtering and custom registry support"
+          - "Refactored package discovery across local and remote registries"
+
+      - company: Fortran Programming Language (open source)
+        position: Backend Developer, Fortran Package Manager
+        location: Remote
+        start_date: 2022-11
+        end_date: 2024-03
+        highlights:
+          - "Built and maintained 15+ FastAPI services for registry auth, package, search, and uploads"
+          - "Delivered Docker + MongoDB multi-service pipelines with Pytest-backed CI coverage"
+
+      - company: Fortran Programming Language
+        position: Google Summer of Code '22 Student Developer
+        location: Remote
+        start_date: 2022-05
+        end_date: 2022-09
+        highlights:
+          - "Overhauled Fortran-lang website, reducing loading time by 30% and build time by 80%"
+          - "Led multilingual localization rollout (10+ languages) with Sphinx Intl and Weblate"
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: Adaptive Attacks Break Defenses Against Indirect Prompt Injection Attacks on LLM Agents
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - Qiusi Zhan
+          - Richard Fang
+          - Henil Shalin Panchal
+          - Daniel Kang
+        publisher: NAACL'25 TrustNLP Workshop
+        releaseDate: 2025
+        url: https://arxiv.org/abs/2503.00061
+        summary: Spotlight paper on adaptive attacks that break indirect prompt injection defenses in LLM agents.
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - title: "MMTEB: Massive Multilingual Text Embedding Benchmark"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+          - Kenneth Enevoldsen
+          - Isaac Chung
+          - Henil Panchal
+          - et al.
+        publisher: ICLR 2025
+        releaseDate: 2025
+        url: https://arxiv.org/abs/2502.13595
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+      - title: "TRACK-GAME: Transformer-Assisted Malicious Financial Transaction Detection Framework for Meta Gaming Platform"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - Pathak, Lakshit
+          - Shah, Khushi
+          - Panchal, Henil Shalin
+          - et al.
+        publisher: IEEE WCONF
+        releaseDate: 2024
 
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - title: "Smart Sustainable Packaging for Local Fruits – TRACE Your Food, KNOW Your Food, TAKE CARE of Trash"
+        authors:
+          - Henil Panchal
+          - et al.
+        publisher: TMS 2025 Joint Sessions of AIM, ICME & 3DMS
+        releaseDate: 2025
 
-    Languages:
-      - name: German
-        summary: "Native speaker"
+      - title: Image-based Ransomware Detection for Social Media Post Using Structural Similarity Index
+        authors:
+          - Panchal, Henil Shalin
+          - et al.
+        publisher: IEEE INDICON
+        releaseDate: 2023
 
-      - name: English
-        summary: "Fluent"
+      - title: "Blockchain and AI-driven Smart Healthcare Framework to Improve Human Life Expectancy"
+        authors:
+          - Joshi, Pooja
+          - Panchal, Henil Shalin
+          - et al.
+        publisher: IEEE ICONAT
+        releaseDate: 2024
 
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+      - title: "XAI-BattleOps: Explainable AI-based Energy Consumption Analytical Framework for UAV-assisted Battlefield Operations"
+        authors:
+          - Shah, Khushi
+          - Panchal, Henil Shalin
+          - et al.
+        publisher: IEEE ICBDS
+        releaseDate: 2024
 
     Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+      - name: Multi-Agent Financial Intelligence System (GCP + LangGraph)
+        summary: Production-grade multi-agent finance system using LangGraph, ReAct/hierarchical delegation, dual-path RAG over SQL and PDF filings.
         highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+          - "Stack: Vertex AI, BigQuery, Cloud Run, Matching Engine, LangSmith, OAuth 2.0, MCP-compatible tool calling"
 
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Financial RAG Agent for Regulated Finance
+        summary: Agentic RAG pipeline over SEC filings and earnings transcripts with chunking, embeddings, and re-ranking.
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: LLM Robustness & Agentic Security Research
+        summary: Adversarial fine-tuning and red-teaming for prompt injection resilience in LLM agents; NAACL'25 Spotlight output.
+
+      - name: Scalable ML Pipeline on GCP Dataflow
+        summary: Apache Beam ELT pipeline processing 500K+ records into BigQuery for risk analytics and explainable scoring.
+
+      - name: Credit Risk Assessment and Default Prediction
+        summary: XGBoost-based default prediction at 92% accuracy with SHAP explanations and fairness/performance analysis.
+
+      - name: Portfolio Risk Analytics & VaR Dashboard
+        summary: VaR/CVaR system with Monte Carlo, GARCH forecasting, and FastAPI/Docker service deployment.
+
+      - name: Derivatives Pricing Engine
+        summary: Black-Scholes-Merton, Binomial Tree, and Monte Carlo options pricing with Greeks and implied volatility solvers.
+
+      - name: TinyStoriesGPT-5M
+        summary: Built and trained a 5M-parameter GPT-style transformer from scratch with PyTorch/CUDA.
+
+      - name: Telugu Automatic Speech Recognition System
+        summary: Fine-tuned Wav2Vec2 ASR pipeline (IIIT-H + OpenSLR66), achieving 33.44% WER.
+
+      - name: "ChessSync: Real-Time Multiplayer AI Chess"
+        summary: Flask + Redis multiplayer chess system with Min-Max and Alpha-Beta pruning AI.
+
+    Skills:
+      - name: Languages
+        icon: fa-solid fa-code
+        keywords: "Python, C/C++, JavaScript, TypeScript, Java, Go, SQL, Bash, Fortran, R, VBA, Dart"
+
+      - name: AI / LLM / Agentic
+        icon: fa-solid fa-robot
+        keywords: "LangGraph, LangChain, CrewAI, ADK, ReAct, RAG, LoRA/PEFT, MCP, Tool Calling, OAuth 2.0"
+
+      - name: ML / Quant
+        icon: fa-solid fa-chart-line
+        keywords: "PyTorch, TensorFlow, XGBoost, Scikit-learn, LSTM, Transformers, VaR/CVaR, Monte Carlo, Black-Scholes-Merton"
+
+      - name: Cloud / Data / MLOps
+        icon: fa-solid fa-cloud
+        keywords: "GCP (Vertex AI, Cloud Run, BigQuery, Dataflow, Cloud Functions), Apache Beam, Docker, Kubernetes, Terraform, GitHub Actions"
+
+      - name: Financial Tools
+        icon: fa-solid fa-building-columns
+        keywords: "Bloomberg Terminal, Reuters Eikon, Excel, Power BI, Tableau"
+
+    Awards:
+      - title: INSPIRE Award MANAK
+        awarder: Department of Science and Technology, Government of India
+        date: 2019
+
+      - title: Codeforces Specialist (Rating 1521)
+        awarder: Codeforces
+        date: 2026
+        summary: Top 855 globally in Div. 3 Round 1084
+
+      - title: Foundations of Modern Machine Learning – Grade A
+        awarder: IIIT Hyderabad
+        date: 2025
